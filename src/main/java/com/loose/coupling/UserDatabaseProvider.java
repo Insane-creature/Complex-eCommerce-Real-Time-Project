@@ -10,5 +10,4 @@ public class UserDatabaseProvider implements  UserDataProvider {
         return  "Got user data";
     }
 
-    
 }

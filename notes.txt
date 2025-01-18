@@ -1,0 +1,5 @@
+Created loose coupling as if a database provider is added to the application so we can easily switch to the new DB without much code change.
+Loose coupling allows application to be more flexible and scalable.
+
+-- Also loose coupling is known as Decoupling.
+For loose coupling, you need to create databaseProvider is a reference variable for the interface and assign the object of the implemetation
