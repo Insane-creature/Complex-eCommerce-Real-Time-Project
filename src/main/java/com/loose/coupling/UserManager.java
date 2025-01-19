@@ -15,6 +15,4 @@ public class UserManager {
     public String getUserInfo(){
         return userDataProvider.getUserDetails();
     }
-
-    
 }
